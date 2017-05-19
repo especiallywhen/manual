@@ -7,7 +7,7 @@
   min-height: 6120px;
   position: relative;
   margin: 0;
-  background: rgba(0, 0, 0, 0.0)
+  background: rgba(0, 0, 0, 1.0)
 }
 
 a {
@@ -25,7 +25,7 @@ a {
 }
 
 .all .group4 .bg1 {
-  background-image: url("../images/price-manual/a_bg1.jpg");
+  background-image: url("../images/price-manual/a_bg1.png");
   background-size: cover;
   height: 100%;
   width: 100%;
@@ -84,7 +84,7 @@ a {
 }
 
 .all .group3 .bg2 {
-  background-image: url("../images/price-manual/a_bg2.jpg");
+  background-image: url("../images/price-manual/a_bg2.png");
   background-size: cover;
   height: 100%;
   width: 100%;
@@ -118,22 +118,21 @@ a {
 }
 
 .all .bg3 {
-  background-image: url("../images/price-manual/a_bg3.jpg");
-  background-size: cover;
-  height: 100%;
-  width: 100%;
-  top: 0;
+  height: 360px;
+  width: 360px;
+  position: absolute;
+  top: -100px;
+  margin: 0;
   left: 0
 }
 
 .all .group2 {
   background: rgba(255, 255, 255, 0.0);
   top: 820px;
-  height: 160px;
-  width: 290px;
+  height: 360px;
+  width: 360px;
   position: absolute;
   margin: 0;
-  left: 35px
 }
 
 .all .group2 .img3 {
@@ -143,7 +142,7 @@ a {
   width: 290px;
   position: absolute;
   margin: 0;
-  left: 0
+  left: 35px;
 }
 
 .all .group2 .label4 {
@@ -153,7 +152,7 @@ a {
   width: auto;
   position: absolute;
   margin: 0;
-  left: 10px;
+  left: 55px;
   font-family: 'Spoqa Han Sans Light', sans-serif;
   font-size: 16.0px;
   color: rgba(255, 255, 255, 1.0);
@@ -168,7 +167,7 @@ a {
   width: auto;
   position: absolute;
   margin: 0;
-  left: 95px;
+  left: 140px;
   font-family: 'Spoqa Han Sans Regular', sans-serif;
   font-size: 30.0px;
   color: rgba(255, 255, 255, 1.0);

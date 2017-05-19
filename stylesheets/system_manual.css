@@ -1,12 +1,4 @@
-@font-face {
-  font-family: "NotoSansCJKkr-DemiLight";
-  src: url('https://anima-uploads.s3.amazonaws.com/590fc68b55db30000d8b8140/591e4fb0bec667000cffc0d5/591e50c5bec667000b8c975c/fonts/NotoSansCJKkr-DemiLight.otf') format("opentype");
-}
-
-@font-face {
-  font-family: "NotoSansCJKkr-Medium";
-  src: url('https://anima-uploads.s3.amazonaws.com/590fc68b55db30000d8b8140/591e4fb0bec667000cffc0d5/591e50c5bec667000b8c975c/fonts/NotoSansCJKkr-Medium.otf') format("opentype");
-}
+@import url(//spoqa.github.io/spoqa-han-sans/css/SpoqaHanSans-kr.css);
 
 .a01 {
   width: 100%;
@@ -71,7 +63,7 @@ a {
   position: absolute;
   margin: 0;
   left: 35px;
-  font-family: 'NotoSansCJKkr-DemiLight', sans-serif;
+  font-family: r, sans-serif;
   font-size: 14.0px;
   color: rgba(64, 64, 64, 1.0);
   text-align: center;
@@ -117,7 +109,7 @@ a {
   position: absolute;
   margin: 0;
   left: 54px;
-  font-family: 'NotoSansCJKkr-DemiLight', sans-serif;
+  font-family: r, sans-serif;
   font-size: 14.0px;
   color: rgba(102, 102, 102, 1.0);
   text-align: left;
@@ -132,7 +124,7 @@ a {
   position: absolute;
   margin: 0;
   left: 46px;
-  font-family: 'NotoSansCJKkr-Medium', sans-serif;
+  font-family: 'Spoqa Han Sans regular', sans-serif, sans-serif;
   font-size: 14.0px;
   color: rgba(102, 102, 102, 1.0);
   text-align: left;
@@ -147,7 +139,7 @@ a {
   position: absolute;
   margin: 0;
   left: 46px;
-  font-family: 'NotoSansCJKkr-Medium', sans-serif;
+  font-family: 'Spoqa Han Sans regular', sans-serif, sans-serif;
   font-size: 14.0px;
   color: rgba(102, 102, 102, 1.0);
   text-align: left;
@@ -162,7 +154,7 @@ a {
   position: absolute;
   margin: 0;
   left: 46px;
-  font-family: 'NotoSansCJKkr-Medium', sans-serif;
+  font-family: 'Spoqa Han Sans regular', sans-serif, sans-serif;
   font-size: 14.0px;
   color: rgba(102, 102, 102, 1.0);
   text-align: left;
@@ -177,7 +169,7 @@ a {
   position: absolute;
   margin: 0;
   left: 46px;
-  font-family: 'NotoSansCJKkr-Medium', sans-serif;
+  font-family: 'Spoqa Han Sans regular', sans-serif, sans-serif;
   font-size: 14.0px;
   color: rgba(102, 102, 102, 1.0);
   text-align: left;
@@ -192,7 +184,7 @@ a {
   position: absolute;
   margin: 0;
   left: 44px;
-  font-family: 'NotoSansCJKkr-Medium', sans-serif;
+  font-family: 'Spoqa Han Sans regular', sans-serif, sans-serif;
   font-size: 14.0px;
   color: rgba(0, 0, 0, 1.0);
   text-align: left;
@@ -217,7 +209,7 @@ a {
   position: absolute;
   margin: 0;
   left: 54px;
-  font-family: 'NotoSansCJKkr-DemiLight', sans-serif;
+  font-family: r, sans-serif;
   font-size: 14.0px;
   color: rgba(102, 102, 102, 1.0);
   text-align: left;
@@ -232,7 +224,7 @@ a {
   position: absolute;
   margin: 0;
   left: 44px;
-  font-family: 'NotoSansCJKkr-Medium', sans-serif;
+  font-family: 'Spoqa Han Sans regular', sans-serif, sans-serif;
   font-size: 14.0px;
   color: rgba(0, 0, 0, 1.0);
   text-align: left;
@@ -247,7 +239,7 @@ a {
   position: absolute;
   margin: 0;
   left: 46px;
-  font-family: 'NotoSansCJKkr-Medium', sans-serif;
+  font-family: 'Spoqa Han Sans regular', sans-serif, sans-serif;
   font-size: 14.0px;
   color: rgba(102, 102, 102, 1.0);
   text-align: left;
@@ -262,7 +254,7 @@ a {
   position: absolute;
   margin: 0;
   left: 46px;
-  font-family: 'NotoSansCJKkr-Medium', sans-serif;
+  font-family: 'Spoqa Han Sans regular', sans-serif, sans-serif;
   font-size: 14.0px;
   color: rgba(102, 102, 102, 1.0);
   text-align: left;
@@ -277,7 +269,7 @@ a {
   position: absolute;
   margin: 0;
   left: 46px;
-  font-family: 'NotoSansCJKkr-Medium', sans-serif;
+  font-family: 'Spoqa Han Sans regular', sans-serif, sans-serif;
   font-size: 14.0px;
   color: rgba(102, 102, 102, 1.0);
   text-align: left;
@@ -292,7 +284,7 @@ a {
   position: absolute;
   margin: 0;
   left: 46px;
-  font-family: 'NotoSansCJKkr-Medium', sans-serif;
+  font-family: 'Spoqa Han Sans regular', sans-serif, sans-serif;
   font-size: 14.0px;
   color: rgba(102, 102, 102, 1.0);
   text-align: left;
@@ -307,7 +299,7 @@ a {
   position: absolute;
   margin: 0;
   left: 46px;
-  font-family: 'NotoSansCJKkr-Medium', sans-serif;
+  font-family: 'Spoqa Han Sans regular', sans-serif, sans-serif;
   font-size: 14.0px;
   color: rgba(102, 102, 102, 1.0);
   text-align: left;
@@ -322,7 +314,7 @@ a {
   position: absolute;
   margin: 0;
   left: 46px;
-  font-family: 'NotoSansCJKkr-Medium', sans-serif;
+  font-family: 'Spoqa Han Sans regular', sans-serif, sans-serif;
   font-size: 14.0px;
   color: rgba(102, 102, 102, 1.0);
   text-align: left;
@@ -337,7 +329,7 @@ a {
   position: absolute;
   margin: 0;
   left: 46px;
-  font-family: 'NotoSansCJKkr-Medium', sans-serif;
+  font-family: 'Spoqa Han Sans regular', sans-serif, sans-serif;
   font-size: 14.0px;
   color: rgba(102, 102, 102, 1.0);
   text-align: left;
@@ -352,7 +344,7 @@ a {
   position: absolute;
   margin: 0;
   left: 46px;
-  font-family: 'NotoSansCJKkr-Medium', sans-serif;
+  font-family: 'Spoqa Han Sans regular', sans-serif, sans-serif;
   font-size: 14.0px;
   color: rgba(102, 102, 102, 1.0);
   text-align: left;
@@ -367,7 +359,7 @@ a {
   position: absolute;
   margin: 0;
   left: 46px;
-  font-family: 'NotoSansCJKkr-Medium', sans-serif;
+  font-family: 'Spoqa Han Sans regular', sans-serif, sans-serif;
   font-size: 14.0px;
   color: rgba(102, 102, 102, 1.0);
   text-align: left;
@@ -382,7 +374,7 @@ a {
   position: absolute;
   margin: 0;
   left: 46px;
-  font-family: 'NotoSansCJKkr-Medium', sans-serif;
+  font-family: 'Spoqa Han Sans regular', sans-serif, sans-serif;
   font-size: 14.0px;
   color: rgba(102, 102, 102, 1.0);
   text-align: left;
@@ -417,7 +409,7 @@ a {
   position: absolute;
   margin: 0;
   left: 13px;
-  font-family: 'NotoSansCJKkr-DemiLight', sans-serif;
+  font-family: r, sans-serif;
   font-size: 14.0px;
   color: rgba(238, 64, 34, 1.0);
   text-align: left;
@@ -432,7 +424,7 @@ a {
   position: absolute;
   margin: 0;
   left: 48px;
-  font-family: 'NotoSansCJKkr-DemiLight', sans-serif;
+  font-family: r, sans-serif;
   font-size: 14.0px;
   color: rgba(238, 64, 34, 1.0);
   text-align: left;
@@ -467,7 +459,7 @@ a {
   position: absolute;
   margin: 0;
   left: 28px;
-  font-family: 'NotoSansCJKkr-Medium', sans-serif;
+  font-family: 'Spoqa Han Sans regular', sans-serif, sans-serif;
   font-size: 14.0px;
   color: rgba(0, 0, 0, 1.0);
   text-align: left;
@@ -482,7 +474,7 @@ a {
   position: absolute;
   margin: 0;
   left: 0;
-  font-family: 'NotoSansCJKkr-DemiLight', sans-serif;
+  font-family: r, sans-serif;
   font-size: 20.0px;
   color: rgba(0, 0, 0, 1.0);
   text-align: left;
@@ -497,7 +489,7 @@ a {
   position: absolute;
   margin: 0;
   left: 0;
-  font-family: 'NotoSansCJKkr-DemiLight', sans-serif;
+  font-family: r, sans-serif;
   font-size: 14.0px;
   color: rgba(102, 102, 102, 1.0);
   text-align: left;
@@ -532,7 +524,7 @@ a {
   position: absolute;
   margin: 0;
   left: 28px;
-  font-family: 'NotoSansCJKkr-Medium', sans-serif;
+  font-family: 'Spoqa Han Sans regular', sans-serif, sans-serif;
   font-size: 14.0px;
   color: rgba(0, 0, 0, 1.0);
   text-align: left;
@@ -547,7 +539,7 @@ a {
   position: absolute;
   margin: 0;
   left: 0;
-  font-family: 'NotoSansCJKkr-DemiLight', sans-serif;
+  font-family: r, sans-serif;
   font-size: 20.0px;
   color: rgba(0, 0, 0, 1.0);
   text-align: left;
@@ -562,7 +554,7 @@ a {
   position: absolute;
   margin: 0;
   left: 0;
-  font-family: 'NotoSansCJKkr-DemiLight', sans-serif;
+  font-family: r, sans-serif;
   font-size: 14.0px;
   color: rgba(102, 102, 102, 1.0);
   text-align: left;
@@ -587,7 +579,7 @@ a {
   position: absolute;
   margin: 0;
   left: 36px;
-  font-family: 'NotoSansCJKkr-Medium', sans-serif;
+  font-family: 'Spoqa Han Sans regular', sans-serif, sans-serif;
   font-size: 18.0px;
   color: rgba(0, 0, 0, 1.0);
   text-align: left;
@@ -662,7 +654,7 @@ a {
   position: absolute;
   margin: 0;
   left: 54px;
-  font-family: 'NotoSansCJKkr-DemiLight', sans-serif;
+  font-family: r, sans-serif;
   font-size: 14.0px;
   color: rgba(102, 102, 102, 1.0);
   text-align: left;
@@ -677,7 +669,7 @@ a {
   position: absolute;
   margin: 0;
   left: 44px;
-  font-family: 'NotoSansCJKkr-Medium', sans-serif;
+  font-family: 'Spoqa Han Sans regular', sans-serif, sans-serif;
   font-size: 14.0px;
   color: rgba(0, 0, 0, 1.0);
   text-align: left;
@@ -692,7 +684,7 @@ a {
   position: absolute;
   margin: 0;
   left: 46px;
-  font-family: 'NotoSansCJKkr-Medium', sans-serif;
+  font-family: 'Spoqa Han Sans regular', sans-serif, sans-serif;
   font-size: 14.0px;
   color: rgba(102, 102, 102, 1.0);
   text-align: left;
@@ -728,7 +720,7 @@ a {
   position: absolute;
   margin: 0;
   left: 54px;
-  font-family: 'NotoSansCJKkr-DemiLight', sans-serif;
+  font-family: r, sans-serif;
   font-size: 14.0px;
   color: rgba(102, 102, 102, 1.0);
   text-align: left;
@@ -743,7 +735,7 @@ a {
   position: absolute;
   margin: 0;
   left: 44px;
-  font-family: 'NotoSansCJKkr-Medium', sans-serif;
+  font-family: 'Spoqa Han Sans regular', sans-serif, sans-serif;
   font-size: 14.0px;
   color: rgba(0, 0, 0, 1.0);
   text-align: left;
@@ -758,7 +750,7 @@ a {
   position: absolute;
   margin: 0;
   left: 46px;
-  font-family: 'NotoSansCJKkr-Medium', sans-serif;
+  font-family: 'Spoqa Han Sans regular', sans-serif, sans-serif;
   font-size: 14.0px;
   color: rgba(102, 102, 102, 1.0);
   text-align: left;
@@ -773,7 +765,7 @@ a {
   position: absolute;
   margin: 0;
   left: 46px;
-  font-family: 'NotoSansCJKkr-Medium', sans-serif;
+  font-family: 'Spoqa Han Sans regular', sans-serif, sans-serif;
   font-size: 14.0px;
   color: rgba(102, 102, 102, 1.0);
   text-align: left;
@@ -808,7 +800,7 @@ a {
   position: absolute;
   margin: 0;
   left: 54px;
-  font-family: 'NotoSansCJKkr-DemiLight', sans-serif;
+  font-family: r, sans-serif;
   font-size: 14.0px;
   color: rgba(102, 102, 102, 1.0);
   text-align: left;
@@ -823,7 +815,7 @@ a {
   position: absolute;
   margin: 0;
   left: 46px;
-  font-family: 'NotoSansCJKkr-Medium', sans-serif;
+  font-family: 'Spoqa Han Sans regular', sans-serif, sans-serif;
   font-size: 14.0px;
   color: rgba(102, 102, 102, 1.0);
   text-align: left;
@@ -838,7 +830,7 @@ a {
   position: absolute;
   margin: 0;
   left: 46px;
-  font-family: 'NotoSansCJKkr-Medium', sans-serif;
+  font-family: 'Spoqa Han Sans regular', sans-serif, sans-serif;
   font-size: 14.0px;
   color: rgba(102, 102, 102, 1.0);
   text-align: left;
@@ -853,7 +845,7 @@ a {
   position: absolute;
   margin: 0;
   left: 46px;
-  font-family: 'NotoSansCJKkr-Medium', sans-serif;
+  font-family: 'Spoqa Han Sans regular', sans-serif, sans-serif;
   font-size: 14.0px;
   color: rgba(102, 102, 102, 1.0);
   text-align: left;
@@ -868,7 +860,7 @@ a {
   position: absolute;
   margin: 0;
   left: 44px;
-  font-family: 'NotoSansCJKkr-Medium', sans-serif;
+  font-family: 'Spoqa Han Sans regular', sans-serif, sans-serif;
   font-size: 14.0px;
   color: rgba(0, 0, 0, 1.0);
   text-align: left;
@@ -893,7 +885,7 @@ a {
   position: absolute;
   margin: 0;
   left: 18px;
-  font-family: 'NotoSansCJKkr-DemiLight', sans-serif;
+  font-family: r, sans-serif;
   font-size: 14.0px;
   color: rgba(238, 64, 34, 1.0);
   text-align: left;
@@ -908,7 +900,7 @@ a {
   position: absolute;
   margin: 0;
   left: 48px;
-  font-family: 'NotoSansCJKkr-DemiLight', sans-serif;
+  font-family: r, sans-serif;
   font-size: 14.0px;
   color: rgba(238, 64, 34, 1.0);
   text-align: left;
@@ -943,7 +935,7 @@ a {
   position: absolute;
   margin: 0;
   left: 28px;
-  font-family: 'NotoSansCJKkr-Medium', sans-serif;
+  font-family: 'Spoqa Han Sans regular', sans-serif, sans-serif;
   font-size: 14.0px;
   color: rgba(0, 0, 0, 1.0);
   text-align: left;
@@ -958,7 +950,7 @@ a {
   position: absolute;
   margin: 0;
   left: 0;
-  font-family: 'NotoSansCJKkr-DemiLight', sans-serif;
+  font-family: r, sans-serif;
   font-size: 20.0px;
   color: rgba(0, 0, 0, 1.0);
   text-align: left;
@@ -973,7 +965,7 @@ a {
   position: absolute;
   margin: 0;
   left: 0;
-  font-family: 'NotoSansCJKkr-DemiLight', sans-serif;
+  font-family: r, sans-serif;
   font-size: 14.0px;
   color: rgba(102, 102, 102, 1.0);
   text-align: left;
@@ -1018,7 +1010,7 @@ a {
   position: absolute;
   margin: 0;
   left: 28px;
-  font-family: 'NotoSansCJKkr-Medium', sans-serif;
+  font-family: 'Spoqa Han Sans regular', sans-serif, sans-serif;
   font-size: 14.0px;
   color: rgba(0, 0, 0, 1.0);
   text-align: left;
@@ -1033,7 +1025,7 @@ a {
   position: absolute;
   margin: 0;
   left: 0;
-  font-family: 'NotoSansCJKkr-DemiLight', sans-serif;
+  font-family: r, sans-serif;
   font-size: 20.0px;
   color: rgba(0, 0, 0, 1.0);
   text-align: left;
@@ -1048,7 +1040,7 @@ a {
   position: absolute;
   margin: 0;
   left: 0;
-  font-family: 'NotoSansCJKkr-DemiLight', sans-serif;
+  font-family: r, sans-serif;
   font-size: 14.0px;
   color: rgba(102, 102, 102, 1.0);
   text-align: left;
@@ -1063,7 +1055,7 @@ a {
   position: absolute;
   margin: 0;
   left: 36px;
-  font-family: 'NotoSansCJKkr-Medium', sans-serif;
+  font-family: 'Spoqa Han Sans regular', sans-serif, sans-serif;
   font-size: 18.0px;
   color: rgba(0, 0, 0, 1.0);
   text-align: left;
@@ -1118,7 +1110,7 @@ a {
   position: absolute;
   margin: 0;
   left: 28px;
-  font-family: 'NotoSansCJKkr-Medium', sans-serif;
+  font-family: 'Spoqa Han Sans regular', sans-serif, sans-serif;
   font-size: 14.0px;
   color: rgba(0, 0, 0, 1.0);
   text-align: left;
@@ -1133,7 +1125,7 @@ a {
   position: absolute;
   margin: 0;
   left: 0;
-  font-family: 'NotoSansCJKkr-DemiLight', sans-serif;
+  font-family: r, sans-serif;
   font-size: 20.0px;
   color: rgba(0, 0, 0, 1.0);
   text-align: left;
@@ -1148,7 +1140,7 @@ a {
   position: absolute;
   margin: 0;
   left: 0;
-  font-family: 'NotoSansCJKkr-DemiLight', sans-serif;
+  font-family: r, sans-serif;
   font-size: 14.0px;
   color: rgba(102, 102, 102, 1.0);
   text-align: left;
@@ -1183,7 +1175,7 @@ a {
   position: absolute;
   margin: 0;
   left: 28px;
-  font-family: 'NotoSansCJKkr-Medium', sans-serif;
+  font-family: 'Spoqa Han Sans regular', sans-serif, sans-serif;
   font-size: 14.0px;
   color: rgba(0, 0, 0, 1.0);
   text-align: left;
@@ -1198,7 +1190,7 @@ a {
   position: absolute;
   margin: 0;
   left: 0;
-  font-family: 'NotoSansCJKkr-DemiLight', sans-serif;
+  font-family: r, sans-serif;
   font-size: 20.0px;
   color: rgba(0, 0, 0, 1.0);
   text-align: left;
@@ -1213,7 +1205,7 @@ a {
   position: absolute;
   margin: 0;
   left: 0;
-  font-family: 'NotoSansCJKkr-DemiLight', sans-serif;
+  font-family: r, sans-serif;
   font-size: 14.0px;
   color: rgba(102, 102, 102, 1.0);
   text-align: left;
@@ -1258,7 +1250,7 @@ a {
   position: absolute;
   margin: 0;
   left: 28px;
-  font-family: 'NotoSansCJKkr-Medium', sans-serif;
+  font-family: 'Spoqa Han Sans regular', sans-serif, sans-serif;
   font-size: 14.0px;
   color: rgba(0, 0, 0, 1.0);
   text-align: left;
@@ -1273,7 +1265,7 @@ a {
   position: absolute;
   margin: 0;
   left: 0;
-  font-family: 'NotoSansCJKkr-DemiLight', sans-serif;
+  font-family: r, sans-serif;
   font-size: 20.0px;
   color: rgba(0, 0, 0, 1.0);
   text-align: left;
@@ -1288,7 +1280,7 @@ a {
   position: absolute;
   margin: 0;
   left: 0;
-  font-family: 'NotoSansCJKkr-DemiLight', sans-serif;
+  font-family: r, sans-serif;
   font-size: 14.0px;
   color: rgba(102, 102, 102, 1.0);
   text-align: left;
@@ -1303,7 +1295,7 @@ a {
   position: absolute;
   margin: 0;
   left: 36px;
-  font-family: 'NotoSansCJKkr-Medium', sans-serif;
+  font-family: 'Spoqa Han Sans regular', sans-serif, sans-serif;
   font-size: 18.0px;
   color: rgba(0, 0, 0, 1.0);
   text-align: left;
@@ -1368,7 +1360,7 @@ a {
   position: absolute;
   margin: 0;
   left: 44px;
-  font-family: 'NotoSansCJKkr-Medium', sans-serif;
+  font-family: 'Spoqa Han Sans regular', sans-serif, sans-serif;
   font-size: 14.0px;
   color: rgba(0, 0, 0, 1.0);
   text-align: left;
@@ -1383,7 +1375,7 @@ a {
   position: absolute;
   margin: 0;
   left: 54px;
-  font-family: 'NotoSansCJKkr-DemiLight', sans-serif;
+  font-family: r, sans-serif;
   font-size: 14.0px;
   color: rgba(102, 102, 102, 1.0);
   text-align: left;
@@ -1408,7 +1400,7 @@ a {
   position: absolute;
   margin: 0;
   left: 46px;
-  font-family: 'NotoSansCJKkr-Medium', sans-serif;
+  font-family: 'Spoqa Han Sans regular', sans-serif, sans-serif;
   font-size: 14.0px;
   color: rgba(102, 102, 102, 1.0);
   text-align: left;
@@ -1423,7 +1415,7 @@ a {
   position: absolute;
   margin: 0;
   left: 46px;
-  font-family: 'NotoSansCJKkr-Medium', sans-serif;
+  font-family: 'Spoqa Han Sans regular', sans-serif, sans-serif;
   font-size: 14.0px;
   color: rgba(102, 102, 102, 1.0);
   text-align: left;
@@ -1438,7 +1430,7 @@ a {
   position: absolute;
   margin: 0;
   left: 46px;
-  font-family: 'NotoSansCJKkr-Medium', sans-serif;
+  font-family: 'Spoqa Han Sans regular', sans-serif, sans-serif;
   font-size: 14.0px;
   color: rgba(102, 102, 102, 1.0);
   text-align: left;
@@ -1483,7 +1475,7 @@ a {
   position: absolute;
   margin: 0;
   left: 54px;
-  font-family: 'NotoSansCJKkr-DemiLight', sans-serif;
+  font-family: r, sans-serif;
   font-size: 14.0px;
   color: rgba(102, 102, 102, 1.0);
   text-align: left;
@@ -1498,7 +1490,7 @@ a {
   position: absolute;
   margin: 0;
   left: 46px;
-  font-family: 'NotoSansCJKkr-Medium', sans-serif;
+  font-family: 'Spoqa Han Sans regular', sans-serif, sans-serif;
   font-size: 14.0px;
   color: rgba(102, 102, 102, 1.0);
   text-align: left;
@@ -1513,7 +1505,7 @@ a {
   position: absolute;
   margin: 0;
   left: 46px;
-  font-family: 'NotoSansCJKkr-Medium', sans-serif;
+  font-family: 'Spoqa Han Sans regular', sans-serif, sans-serif;
   font-size: 14.0px;
   color: rgba(102, 102, 102, 1.0);
   text-align: left;
@@ -1528,7 +1520,7 @@ a {
   position: absolute;
   margin: 0;
   left: 44px;
-  font-family: 'NotoSansCJKkr-Medium', sans-serif;
+  font-family: 'Spoqa Han Sans regular', sans-serif, sans-serif;
   font-size: 14.0px;
   color: rgba(0, 0, 0, 1.0);
   text-align: left;
@@ -1553,7 +1545,7 @@ a {
   position: absolute;
   margin: 0;
   left: 18px;
-  font-family: 'NotoSansCJKkr-DemiLight', sans-serif;
+  font-family: r, sans-serif;
   font-size: 14.0px;
   color: rgba(255, 87, 87, 1.0);
   text-align: left;
@@ -1598,7 +1590,7 @@ a {
   position: absolute;
   margin: 0;
   left: 5px;
-  font-family: 'NotoSansCJKkr-Medium', sans-serif;
+  font-family: 'Spoqa Han Sans regular', sans-serif, sans-serif;
   font-size: 14.0px;
   color: rgba(0, 0, 0, 1.0);
   text-align: center;
@@ -1613,7 +1605,7 @@ a {
   position: absolute;
   margin: 0;
   left: -1px;
-  font-family: 'NotoSansCJKkr-DemiLight', sans-serif;
+  font-family: r, sans-serif;
   font-size: 14.0px;
   color: rgba(102, 102, 102, 1.0);
   text-align: center;
@@ -1638,7 +1630,7 @@ a {
   position: absolute;
   margin: 0;
   left: 15px;
-  font-family: 'NotoSansCJKkr-Medium', sans-serif;
+  font-family: 'Spoqa Han Sans regular', sans-serif, sans-serif;
   font-size: 14.0px;
   color: rgba(0, 0, 0, 1.0);
   text-align: center;
@@ -1653,7 +1645,7 @@ a {
   position: absolute;
   margin: 0;
   left: -1px;
-  font-family: 'NotoSansCJKkr-DemiLight', sans-serif;
+  font-family: r, sans-serif;
   font-size: 14.0px;
   color: rgba(102, 102, 102, 1.0);
   text-align: center;
@@ -1708,7 +1700,7 @@ a {
   position: absolute;
   margin: 0;
   left: 25px;
-  font-family: 'NotoSansCJKkr-Medium', sans-serif;
+  font-family: 'Spoqa Han Sans regular', sans-serif, sans-serif;
   font-size: 14.0px;
   color: rgba(0, 0, 0, 1.0);
   text-align: center;
@@ -1723,7 +1715,7 @@ a {
   position: absolute;
   margin: 0;
   left: -1px;
-  font-family: 'NotoSansCJKkr-DemiLight', sans-serif;
+  font-family: r, sans-serif;
   font-size: 14.0px;
   color: rgba(102, 102, 102, 1.0);
   text-align: center;
@@ -1738,7 +1730,7 @@ a {
   position: absolute;
   margin: 0;
   left: 37px;
-  font-family: 'NotoSansCJKkr-Medium', sans-serif;
+  font-family: 'Spoqa Han Sans regular', sans-serif, sans-serif;
   font-size: 18.0px;
   color: rgba(238, 64, 34, 1.0);
   text-align: left;
@@ -1803,7 +1795,7 @@ a {
   position: absolute;
   margin: 0;
   left: 0;
-  font-family: 'NotoSansCJKkr-DemiLight', sans-serif;
+  font-family: r, sans-serif;
   font-size: 14.0px;
   color: rgba(0, 0, 0, 1.0);
   text-align: left;
@@ -1828,7 +1820,7 @@ a {
   position: absolute;
   margin: 0;
   left: 61px;
-  font-family: 'NotoSansCJKkr-DemiLight', sans-serif;
+  font-family: r, sans-serif;
   font-size: 14.0px;
   color: rgba(0, 0, 0, 1.0);
   text-align: left;
@@ -1863,7 +1855,7 @@ a {
   position: absolute;
   margin: 0;
   left: 60px;
-  font-family: 'NotoSansCJKkr-DemiLight', sans-serif;
+  font-family: r, sans-serif;
   font-size: 14.0px;
   color: rgba(0, 0, 0, 1.0);
   text-align: left;
@@ -1898,7 +1890,7 @@ a {
   position: absolute;
   margin: 0;
   left: 55px;
-  font-family: 'NotoSansCJKkr-DemiLight', sans-serif;
+  font-family: r, sans-serif;
   font-size: 14.0px;
   color: rgba(0, 0, 0, 1.0);
   text-align: left;
@@ -1933,7 +1925,7 @@ a {
   position: absolute;
   margin: 0;
   left: 61px;
-  font-family: 'NotoSansCJKkr-DemiLight', sans-serif;
+  font-family: r, sans-serif;
   font-size: 14.0px;
   color: rgba(0, 0, 0, 1.0);
   text-align: left;
@@ -1998,7 +1990,7 @@ a {
   position: absolute;
   margin: 0;
   left: 37px;
-  font-family: 'NotoSansCJKkr-Medium', sans-serif;
+  font-family: 'Spoqa Han Sans regular', sans-serif, sans-serif;
   font-size: 18.0px;
   color: rgba(238, 64, 34, 1.0);
   text-align: left;
@@ -2053,7 +2045,7 @@ a {
   position: absolute;
   margin: 0;
   left: 37px;
-  font-family: 'NotoSansCJKkr-DemiLight', sans-serif;
+  font-family: r, sans-serif;
   font-size: 14.0px;
   color: rgba(0, 0, 0, 1.0);
   text-align: left;
@@ -2068,7 +2060,7 @@ a {
   position: absolute;
   margin: 0;
   left: 95px;
-  font-family: 'NotoSansCJKkr-DemiLight', sans-serif;
+  font-family: r, sans-serif;
   font-size: 14.0px;
   color: rgba(0, 0, 0, 1.0);
   text-align: left;
@@ -2093,7 +2085,7 @@ a {
   position: absolute;
   margin: 0;
   left: 95px;
-  font-family: 'NotoSansCJKkr-DemiLight', sans-serif;
+  font-family: r, sans-serif;
   font-size: 14.0px;
   color: rgba(0, 0, 0, 1.0);
   text-align: left;
@@ -2118,7 +2110,7 @@ a {
   position: absolute;
   margin: 0;
   left: 95px;
-  font-family: 'NotoSansCJKkr-DemiLight', sans-serif;
+  font-family: r, sans-serif;
   font-size: 14.0px;
   color: rgba(0, 0, 0, 1.0);
   text-align: left;
@@ -2173,7 +2165,7 @@ a {
   position: absolute;
   margin: 0;
   left: 37px;
-  font-family: 'NotoSansCJKkr-Medium', sans-serif;
+  font-family: 'Spoqa Han Sans regular', sans-serif, sans-serif;
   font-size: 18.0px;
   color: rgba(238, 64, 34, 1.0);
   text-align: left;
@@ -2228,7 +2220,7 @@ a {
   position: absolute;
   margin: 0;
   left: 0;
-  font-family: 'NotoSansCJKkr-DemiLight', sans-serif;
+  font-family: r, sans-serif;
   font-size: 14.0px;
   color: rgba(0, 0, 0, 1.0);
   text-align: left;
@@ -2253,7 +2245,7 @@ a {
   position: absolute;
   margin: 0;
   left: 60px;
-  font-family: 'NotoSansCJKkr-DemiLight', sans-serif;
+  font-family: r, sans-serif;
   font-size: 14.0px;
   color: rgba(0, 0, 0, 1.0);
   text-align: left;
@@ -2288,7 +2280,7 @@ a {
   position: absolute;
   margin: 0;
   left: 58px;
-  font-family: 'NotoSansCJKkr-DemiLight', sans-serif;
+  font-family: r, sans-serif;
   font-size: 14.0px;
   color: rgba(0, 0, 0, 1.0);
   text-align: left;
@@ -2323,7 +2315,7 @@ a {
   position: absolute;
   margin: 0;
   left: 60px;
-  font-family: 'NotoSansCJKkr-DemiLight', sans-serif;
+  font-family: r, sans-serif;
   font-size: 14.0px;
   color: rgba(0, 0, 0, 1.0);
   text-align: left;
@@ -2378,7 +2370,7 @@ a {
   position: absolute;
   margin: 0;
   left: 37px;
-  font-family: 'NotoSansCJKkr-Medium', sans-serif;
+  font-family: 'Spoqa Han Sans regular', sans-serif, sans-serif;
   font-size: 18.0px;
   color: rgba(238, 64, 34, 1.0);
   text-align: left;
@@ -2433,7 +2425,7 @@ a {
   position: absolute;
   margin: 0;
   left: 70px;
-  font-family: 'NotoSansCJKkr-DemiLight', sans-serif;
+  font-family: r, sans-serif;
   font-size: 20.0px;
   color: rgba(0, 0, 0, 1.0);
   text-align: center;
@@ -2448,7 +2440,7 @@ a {
   position: absolute;
   margin: 0;
   left: 125px;
-  font-family: 'NotoSansCJKkr-DemiLight', sans-serif;
+  font-family: r, sans-serif;
   font-size: 16.0px;
   color: rgba(102, 102, 102, 1.0);
   text-align: center;

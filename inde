@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <title>위블 요금 안내</title>
+    <meta name="author" content="Linkable">
+  </head>
+  <style media="screen">
+
+
+  </style>
+  <body>
+    <div style="width: 360px; height: 100%; position:relative; margin:auto;">
+      <div class="group">
+        <img class="---" src="">
+        <div class="label1">내 라이프스타일에 딱 맞는</div>
+        <div class="h1">위블 요금 안내</div>
+      </div>
+  </body>
+</html>
